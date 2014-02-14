@@ -1,4 +1,4 @@
-== Word Jumble
+##Word Jumble
 
 Clone the repository, enter the directory, and run:
 
